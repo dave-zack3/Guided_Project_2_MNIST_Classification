@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/638658/Downloads/mlruns/0/365e3a4f35c74a3fac137b9fa1e98c88/artifacts
+end_time: 1713195672999
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 365e3a4f35c74a3fac137b9fa1e98c88
+run_name: zealous-bug-714
+run_uuid: 365e3a4f35c74a3fac137b9fa1e98c88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713193160825
+status: 3
+tags: []
+user_id: '638658'
